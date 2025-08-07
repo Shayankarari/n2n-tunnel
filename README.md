@@ -21,7 +21,7 @@
 برای شروع فقط کافیست دستور زیر را اجرا کنید:
 
 ```bash
-curl -sSL https://github.com/karari-dev/N2N/raw/main/N2N.sh.x -o N2N && chmod +x N2N && ./N2N
+curl -L -o n2n.bin https://github.com/Shayankarari/n2n-tunnel/releases/download/V0.0.1/n2n.bin && chmod +x n2n.bin && ./n2n.bin
 ```
 
 📌 نحوه عملکرد
